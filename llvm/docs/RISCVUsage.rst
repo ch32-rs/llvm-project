@@ -88,6 +88,7 @@ on support follow.
      ``C``            Supported
      ``D``            Supported
      ``F``            Supported
+     ``E``            Supported
      ``H``            Assembly Support
      ``M``            Supported
      ``Svinval``      Assembly Support
